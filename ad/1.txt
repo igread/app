@@ -1,0 +1,1 @@
+m.ithome.com##div.open-app-banner:nth-child(20) > div.op.sg_hide_element
