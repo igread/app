@@ -17,3 +17,5 @@ if (url.indexOf(path) != -1) {
  // Made by Meeta (网易漫画）
  // https?:\/\/api\.mh\.163.com\/getUserProfile
  // hostname = api.mh.163.com
+ // https://raw.githubusercontent.com/MeetaGit/MeetaRules/master/Surge/Scripting/wymh.js
+
