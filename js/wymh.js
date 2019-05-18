@@ -12,12 +12,9 @@ if (url.indexOf(path) != -1) {
     obj["data"]["to"] = 1895308941721;
     obj["data"]["from"] = 1548153741721;
  }
-if (obj["data"]["userType"]== 0){
-  obj["data"]["userType"]= 1;
-};
-
-if (obj["data"]["realVipType"] == 0){
-  obj["data"]["realVipType"] = 1;
+var path2="/getUserMonthlySubInfo.json"
+if (url.indexOf(path2) != -1){
+  obj["data"]["userType"] = 1;
 };
 
 JSON.stringify(obj)
