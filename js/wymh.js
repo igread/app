@@ -12,14 +12,15 @@ if (url.indexOf(path) != -1) {
     obj["data"]["to"] = 1895308941721;
     obj["data"]["from"] = 1548153741721;
  }
-if (obj["data"]["userType"]= 0){
+if (obj["data"]["userType"]== 0){
   obj["data"]["userType"]= 1;
-}
-if (obj["data"]["realVipType"] = 0){
-  obj["data"]["realVipType"] = 1;
-}
+};
 
- JSON.stringify(obj)
+if (obj["data"]["realVipType"] == 0){
+  obj["data"]["realVipType"] = 1;
+};
+
+JSON.stringify(obj)
 
  // Made by Meeta (网易漫画）
  // https?:\/\/api\.mh\.163.com\/getUserProfile
