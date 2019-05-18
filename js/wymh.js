@@ -1,3 +1,11 @@
+/* (网易漫画)
+[url]
+^https?:\/\/api\.mh\.163.com\/getUserProfile
+[host]
+api.mh.163.com
+*/
+
+
 let path = '/getUserProfile';
 var obj = JSON.parse(body)
 if (url.indexOf(path) != -1) {
