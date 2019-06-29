@@ -1,3 +1,12 @@
+! Title: AdGuard Hosts
+! 简介:hosts映射。
+! Version: 1.0.0.1
+! TimeUpdated: 2019-06-28T19:30:09+03:00
+! Expires: 1 days (update frequency)
+! Homepage: https://raw.githubusercontent.com/omrun/app/master/ad/hs.txt
+! License: 
+!
+
 172.217.161.52  ms-connect.appspot.com
 172.217.161.46  app-measurement.com
 13.75.38.7  gate.hockeyapp.net
