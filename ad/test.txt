@@ -1,6 +1,6 @@
 ! Title: AdGuard Test filter
 ! Description: 介绍信息.
-! Version: 1.0.0.1
+! Version: 1.0.0.2
 ! TimeUpdated: 2019-06-28T19:30:09+03:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://raw.githubusercontent.com/omrun/app/master/ad/test.txt
