@@ -1,0 +1,12 @@
+172.217.161.52  ms-connect.appspot.com
+172.217.161.46  app-measurement.com
+13.75.38.7  gate.hockeyapp.net
+13.107.42.14    onedrive.live.com
+13.107.42.12    api.onedrive.com
+52.114.128.10   mobile.pipe.aria.microsoft.com
+64.4.54.254 vortex.data.microsoft.com
+172.217.0.5 gmail.com
+172.217.4.229   www.gmail.com
+130.211.33.145  app.smartmailcloud.com
+13.107.42.12    d.docs.live.net
+192.30.253.118  gist.github.com
