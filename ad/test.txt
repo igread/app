@@ -13,4 +13,3 @@
 /.*\/clipboard\.json\?key\=.*/
 /.*\/checkSendCode\.json\?code\=.*/
 /^https:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad\?f=.*/
-||baidu.com
