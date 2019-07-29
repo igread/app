@@ -2,7 +2,7 @@
 var proxy = "PROXY 192.168.0.205:46376;DIRECT;";
 
 var domains = {
-  "p.doras.log.vcinema.cn": 1, 
+  "p.doras.api.vcinema.cn": 1, 
   "pay.guoing.com": 1, 
 };
 
@@ -24,6 +24,6 @@ function FindProxyForURL(url, host) {
         }
         pos = host.lastIndexOf('.', pos - 1);
     }
-    return proxy;
-    //return direct;
+    //return proxy;
+    return direct;
 }
