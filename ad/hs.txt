@@ -1,7 +1,7 @@
 ! Title: AdGuard Hosts
 ! 简介:hosts映射。
-! Version: 1.0.0.1
-! TimeUpdated: 2019-06-28T19:30:09+03:00
+! Version: 1.0.0.3
+! TimeUpdated: 2019-07-26
 ! Expires: 1 days (update frequency)
 ! Homepage: https://raw.githubusercontent.com/omrun/app/master/ad/hs.txt
 ! License: 
@@ -10,63 +10,36 @@
 172.217.161.52  ms-connect.appspot.com
 172.217.161.46  app-measurement.com
 13.75.38.7  gate.hockeyapp.net
-13.107.42.14    onedrive.live.com
-13.107.42.12    api.onedrive.com
-52.114.128.10   mobile.pipe.aria.microsoft.com
+! 52.114.128.10   mobile.pipe.aria.microsoft.com
+52.114.75.78	mobile.pipe.aria.microsoft.com
 64.4.54.254 vortex.data.microsoft.com
-172.217.0.5 gmail.com
-172.217.4.229   www.gmail.com
 130.211.33.145  app.smartmailcloud.com
 13.107.42.12    d.docs.live.net
 192.30.253.118  gist.github.com
-! Dropbox start
-162.125.248.2	db.tt
-162.125.248.1	www.dropbox.com
-162.125.248.1	www.dualstack.dropbox-dns.com
-162.125.5.7	api.dropbox.com
-162.125.5.7	api.dualstack.dropbox-dns.com
-162.125.5.7	api.dropboxapi.com
-162.125.33.7	api-d.dropbox.com
-162.125.34.7	api.v.dropbox.com
-162.125.34.7	api-notify.dropbox.com
-99.84.239.58	aem.dropbox.com
-162.125.82.8	api-content.dropbox.com
-162.125.82.5	api-content-photos.dropbox.com
-13.35.8.95	blogs.dropbox.com
-162.125.17.132	block.dropbox.com
-162.125.17.5	block.v.dropbox.com
-162.125.18.133	bolt.dropbox.com
-162.125.65.3	client.dropbox.com
-162.125.65.3	client-cf.dropbox.com
-162.125.32.137	client.v.dropbox.com
-162.125.80.3	client-lb.dropbox.com
-162.125.80.3	client-web.dropbox.com
-162.125.32.135	d.dropbox.com
-162.125.32.135	d.v.dropbox.com
-162.125.83.6	dl.dropbox.com
-162.125.83.6	dl-web.dropbox.com
-162.125.83.6	dl-doc.dropbox.com
-54.236.121.227	dl-debug.dropbox.com
-13.35.8.71	forums.dropbox.com
-13.35.99.72	linux.dropbox.com
-162.125.80.2	m.dropbox.com
-54.230.173.117	marketing.dropbox.com
-162.125.66.5	photos.dropbox.com
-162.125.83.5	photos-1.dropbox.com
-162.125.83.5	photos-2.dropbox.com
-162.125.83.5	photos-3.dropbox.com
-162.125.83.5	photos-4.dropbox.com
-162.125.83.5	photos-5.dropbox.com
-162.125.83.5	photos-6.dropbox.com
-162.125.83.5	photos-thumb.dropbox.com
-162.125.18.129	photos-thumb.x.dropbox.com
-54.153.81.237	paper.dropbox.com
-54.230.173.90	status.dropbox.com
-54.230.173.29	snapengage.dropbox.com
-162.125.7.6	dl.dropboxusercontent.com
-162.125.33.9	www.dropboxstatic.com
-104.16.100.29	cfl.dropboxstatic.com
-54.230.175.68	cf.dropboxstatic.com
-162.125.33.9	dbxlocal.dropboxstatic.com
-162.125.82.2	log.getdropbox.com
-! Dropbox end
+
+! OneDrive Start
+13.107.42.14    onedrive.live.com
+13.107.42.12    api.onedrive.com
+204.79.197.213	api.onedrive.com
+23.76.75.24	api.onedrive.live.com
+131.253.33.217	onedrive.live.com
+131.253.33.217	webedgegeo.skyprod.akadns.net
+131.253.14.230	skyapi.onedrive.live.com
+134.170.104.157	skyweb.skyprod.akadns.net
+! OneDrive End
+
+! Gmail Start
+! 172.217.160.101 gmail.com
+216.58.215.229	gmail.com
+172.217.168.37	www.gmail.com
+172.217.168.37	googlemail.l.google.com
+216.58.215.231	mail-settings.google.com
+172.217.168.37	m.gmail.com
+74.125.132.160	m.googlemail.com
+108.177.122.161	gmail.google.com
+108.177.127.18	mail.google.com
+108.177.127.17	inbox.google.com
+172.217.168.7	chatenabled.mail.google.com
+172.217.168.71	filetransferenabled.mail.google.com
+172.217.168.39	isolated.mail.google.com
+! Gmail End
